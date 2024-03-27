@@ -1,0 +1,27 @@
+.column1 {
+ background-color: yellow;
+ width : 250px;
+ height : 150px;
+ font-weight: bold;
+ text-align: center;
+}
+
+.column2 {
+    background-color: green;
+    width : 250px;
+    height : 150px;
+    font-weight: bold;
+   }
+
+.column3 {
+    background-color: red;
+    width : 250px;
+    height : 150px;
+    font-weight: bold;
+   }
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
